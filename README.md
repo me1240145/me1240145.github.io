@@ -1,2 +1,7 @@
-# me1240145.github.io
-my peronal portfolio
+title: My WildCat Studios Portfolio
+description: >-
+         This is my portfolio showcasing my projects and skills.
+baseurl: "" # leave empty since this is your user page
+url: "https://me1240145.github.io" # replace YOURUSERNAME with your GitHub username
+theme: jekyll-theme-midnight # replace with your chosen theme from the list
+
