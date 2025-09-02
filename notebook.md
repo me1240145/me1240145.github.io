@@ -19,11 +19,11 @@
 
 | Term             | Definition                                      | Example / Notes                          |
 |------------------|--------------------------------------------------|-------------------------------------------|
-| Widget           |                                                  |                                           |
-| MaterialApp      |                                                  |                                           |
-| Scaffold         |                                                  |                                           |
-| StatelessWidget  |                                                  |                                           |
-| StatefulWidget   |                                                  |                                           |
+| Widget           |basic building block of a flutter app             |                                           |
+| MaterialApp      |the root of the app, sets up routes and themes    |                                           |
+| Scaffold         |provides basic visual layout- like a header       |                                           |
+| StatelessWidget  |a widget that can start to vhange ove time        |                                           |
+| StatefulWidget   |a widget that will not start to change over time  |                                           |
 | Navigator        |what you use to navigate a website                |                                           |
 | AppBar           |where all your apps are                           |                                           |
 | Column           | an orginised section that runs up and down       |                                           |
