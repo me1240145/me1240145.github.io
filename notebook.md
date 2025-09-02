@@ -24,17 +24,17 @@
 | Scaffold         |                                                  |                                           |
 | StatelessWidget  |                                                  |                                           |
 | StatefulWidget   |                                                  |                                           |
-| Navigator        |                                                  |                                           |
-| AppBar           |                                                  |                                           |
-| Column           |                                                  |                                           |
-| Row              |                                                  |                                           |
-| Container        |                                                  |                                           |
-| Text             |                                                  |                                           |
-| Image.network    |                                                  |                                           |
+| Navigator        |what you use to navigate a website                |                                           |
+| AppBar           |where all your apps are                           |                                           |
+| Column           | an orginised section that runs up and down       |                                           |
+| Row              | an orginised area that runs side to side         |                                           |
+| Container        | a confined area                                  |                                           |
+| Text             | the words on a docmuent                          |                                           |
+| Image.network    |an image                                          |                                           |
 
-| Padding    |                    |                     |
+| Padding    |   adds space around a widget                 |                     |
 
-| Center      |                    |                     |
+| Center      |  centers it                  |                     |
 
 ---
 
