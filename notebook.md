@@ -32,11 +32,17 @@
 | Text             | the words on a docmuent                          |                                           |
 | Image.network    |an image                                          |                                           |
 
-| Padding    |   adds space around a widget                 |                     |
+| Padding          |   adds space around a widget                     |                                           |
 
-| Center      |  centers it                  |                     |
+| Center           |  centers it                                      |                                           |
+| Scanner | creates a scanner object to take imputs from user | Scanner in = new scanner |
+| impoert scanner | Gives acsess to scanner class, required at top |
+| print statement | prints content in prenthesis , adds next lien |
+| input next line | reads in a string from the user|
+| inptu nextInt | reads in an int from the user|
+|input nextDouble | reads in a double decimal from the user|
+|
 
----
 
 ### Layout and Design Widgets
 - How do you center a widget?
@@ -239,3 +245,7 @@ Blockquotes = Notes/Tips
 Collapsible = Hide/Show detail
 
 Keep it simple, consistent, and clear.
+
+
+
+
